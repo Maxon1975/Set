@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lizaveta04/pure-functions.git"
+    "url": "git+https://github.com/Maxon1975/Pure-functions.git"
   },
-  "author": "Elizaveta Kuzmicheva",
+  "author": "Annenkov Maxim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lizaveta04/pure-functions/issues"
+    "url": "https://github.com/Maxon1975/Pure-functions/issues"
   },
-  "homepage": "https://github.com/Lizaveta04/pure-functions#readme",
+  "homepage": "https://github.com/Maxon1975/Pure-functions#readme",
   "devDependencies": {
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.7",
